@@ -100,7 +100,7 @@ glslViewer sdf/CubeSDF.frag
 **Scott**
 
 ```
-glslViewer generative/worley/worleyNoise.frag generative/worley/riverbed.png
+glslViewer simulate/SimulateScott.frag
 ```
 
 <img src="repo-assets/images/scott.png">
